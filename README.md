@@ -1,3 +1,4 @@
+# Rec_fitting_non_lin_opt
 Matlab codes (simulation and experimental) for rectangle fitting with nonlinear optimization method
 
 Rectangle fitting from a set of discrete edge points by constructing a continuous cost function and using optimization method.
